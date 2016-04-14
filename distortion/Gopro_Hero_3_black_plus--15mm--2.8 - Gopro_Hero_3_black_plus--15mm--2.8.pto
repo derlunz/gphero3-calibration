@@ -1,0 +1,92 @@
+# hugin project file
+#hugin_ptoversion 2
+p f2 w3000 h1500 v360  E12.752 R0 n"TIFF_m c:LZW r:CROP"
+m g1 i0 f0 m2 p0.00784314
+
+# image lines
+#-hugin  cropFactor=5.41516
+i w4000 h3000 f0 v98.1678045406373 Ra0 Rb0 Rc0 Rd0 Re0 Eev12.7520493184064 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a0 b0 c0 d0 e0 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"Gopro_Hero_3_black_plus--15mm--2.8.jpg"
+
+
+# specify variables that should be optimized
+v Ra0
+v Rb0
+v Rc0
+v Rd0
+v Re0
+v r0
+v p0
+v Vb0
+v Vc0
+v Vd0
+v
+
+
+# control points
+c n0 N0 x44 y647 X3993 Y645 t2
+c n0 N0 x84 y625 X3951 Y628 t2
+c n0 N0 x124 y613 X3917 Y611 t2
+c n0 N0 x168 y586 X3866 Y587 t2
+c n0 N0 x210 y568 X3811 Y562 t2
+c n0 N0 x258 y549 X3736 Y535 t2
+c n0 N0 x310 y529 X3663 Y506 t2
+c n0 N0 x360 y510 X3585 Y476 t2
+c n0 N0 x414 y490 X3519 Y452 t2
+c n0 N0 x460 y472 X3467 Y436 t2
+c n0 N0 x498 y455 X3417 Y419 t2
+c n0 N0 x547 y439 X3356 Y400 t2
+c n0 N0 x599 y422 X3283 Y377 t2
+c n0 N0 x663 y399 X3213 Y356 t2
+c n0 N0 x749 y380 X3125 Y338 t2
+c n0 N0 x842 y350 X3033 Y315 t2
+c n0 N0 x926 y332 X2893 Y288 t2
+c n0 N0 x1009 y311 X2771 Y266 t2
+c n0 N0 x1087 y295 X2667 Y250 t2
+c n0 N0 x1168 y279 X2550 Y234 t2
+c n0 N0 x1270 y262 X2438 Y224 t2
+c n0 N0 x1380 y246 X2339 Y215 t2
+c n0 N0 x1483 y235 X2196 Y209 t2
+c n0 N0 x1602 y225 X2040 Y204 t2
+c n0 N0 x9 y1169 X3995 Y1198 t2
+c n0 N0 x218 y1137 X3679 Y1152 t2
+c n0 N0 x330 y1121 X3587 Y1135 t2
+c n0 N0 x435 y1113 X3505 Y1131 t2
+c n0 N0 x521 y1103 X3408 Y1117 t2
+c n0 N0 x615 y1091 X3306 Y1107 t2
+c n0 N0 x734 y1082 X3180 Y1089 t2
+c n0 N0 x850 y1070 X3046 Y1072 t2
+c n0 N0 x966 y1060 X2904 Y1061 t2
+c n0 N0 x1096 y1049 X2767 Y1053 t2
+c n0 N0 x1220 y1042 X2649 Y1047 t2
+c n0 N0 x1333 y1033 X2537 Y1038 t2
+c n0 N0 x1448 y1032 X2443 Y1041 t2
+c n0 N0 x1571 y1025 X2289 Y1027 t2
+c n0 N0 x1655 y1023 X2217 Y1025 t2
+c n0 N0 x1762 y1022 X2115 Y1020 t2
+
+#hugin_optimizeReferenceImage 0
+#hugin_blender enblend
+#hugin_remapper nona
+#hugin_enblendOptions 
+#hugin_enfuseOptions 
+#hugin_hdrmergeOptions -m avg -c
+#hugin_outputLDRBlended true
+#hugin_outputLDRLayers false
+#hugin_outputLDRExposureRemapped false
+#hugin_outputLDRExposureLayers false
+#hugin_outputLDRExposureBlended false
+#hugin_outputLDRStacks false
+#hugin_outputLDRExposureLayersFused false
+#hugin_outputHDRBlended false
+#hugin_outputHDRLayers false
+#hugin_outputHDRStacks false
+#hugin_outputLayersCompression LZW
+#hugin_outputImageType tif
+#hugin_outputImageTypeCompression LZW
+#hugin_outputJPEGQuality 90
+#hugin_outputImageTypeHDR exr
+#hugin_outputImageTypeHDRCompression LZW
+#hugin_outputStacksMinOverlap 0.7
+#hugin_outputLayersExposureDiff 0.5
+#hugin_optimizerMasterSwitch 1
+#hugin_optimizerPhotoMasterSwitch 21
