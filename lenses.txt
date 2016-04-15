@@ -2,5 +2,5 @@
 # <aspect-ratio> is optional and by default 3:2.
 # Omit <type> for rectilinear lenses.
 
-Gopro Hero 3 black plus: <maker>, <mount>, <cropfactor>, <aspect-ratio>, <type>
-distortion(15.0mm) = , , 
+Gopro Hero3+ black: GoPro, goProHero, 5.42, 4:3
+distortion(15.0mm) = 0.01049, 0.01663, -0.40901

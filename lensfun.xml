@@ -1,0 +1,14 @@
+<lensdatabase>
+
+    <lens>
+        <maker>GoPro</maker>
+        <model>Gopro Hero3+ black</model>
+        <mount>goProHero</mount>
+        <cropfactor>5.42</cropfactor>
+        <aspect-ratio>4:3</aspect-ratio>
+        <calibration>
+            <distortion model="ptlens" focal="15" a="0.01049" b="0.01663" c="-0.40901" />
+        </calibration>
+    </lens>
+
+</lensdatabase>
